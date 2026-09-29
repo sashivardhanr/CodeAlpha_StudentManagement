@@ -1,0 +1,23 @@
+# Compiled binary (Linux/macOS — no extension)
+student_management
+
+# Compiled binary (Windows)
+*.exe
+
+# Object files
+*.o
+*.out
+
+# Build directories
+build/
+
+# Runtime data files
+students.dat
+students.tmp
+accounts.dat
+transactions.txt
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/
